@@ -47,11 +47,17 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a passionate and driven computer science student at UC San Diego 
+        with a strong affinity for software engineering, iOS development, and 
+        front-end technologies. Throughout my academic journey and professional 
+        career, I've been captivated by the intricate world of programming and 
+        its transformative impact on the digital landscape. With a blend of 
+        theoretical knowledge and hands-on experience, I'm dedicated to crafting
+        seamless user experiences, creating elegant software solutions, and 
+        pushing the boundaries of technological innovation. Join me as I share 
+        my journey and showcase the projects that reflect my commitment to 
+        excellence in the realms of software engineering, iOS app development, 
+        and front-end design.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

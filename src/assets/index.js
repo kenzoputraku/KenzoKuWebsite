@@ -25,10 +25,23 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import whova from "./company/whova.png";
+import hkn from "./company/hkn.png";
+import ersp from "./company/ersp.png";
+import cse from "./company/cse.png";
+import qi from "./company/qi.png";
+import aisc from "./company/aisc.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import python from "./tech/python.png";
+import java from "./tech/java.png";
+import c from "./tech/c.png";
+import cpp from "./tech/cpp.png";
+import swift from "./tech/swift.png";
+import objc from "./tech/objc.png";
 
 export {
   logo,
@@ -59,4 +72,16 @@ export {
   carrent,
   jobit,
   tripguide,
+  python,
+  java,
+  c,
+  cpp,
+  swift,
+  objc,
+  whova,
+  hkn,
+  ersp,
+  cse,
+  qi,
+  aisc,
 };
